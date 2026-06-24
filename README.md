@@ -5,8 +5,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
