@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0283-move-zeroes](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1200-minimum-absolute-difference](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -44,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [1200-minimum-absolute-difference](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
