@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1200-minimum-absolute-difference](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
