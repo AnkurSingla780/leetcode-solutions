@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0901-online-stock-span) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
