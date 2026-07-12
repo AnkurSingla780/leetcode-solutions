@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1200-minimum-absolute-difference](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1834-single-threaded-cpu](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,8 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [1200-minimum-absolute-difference](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1834-single-threaded-cpu](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0322-coin-change) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1834-single-threaded-cpu](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 <!---LeetCode Topics End-->
