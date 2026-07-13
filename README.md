@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0784-letter-case-permutation](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1143-longest-common-subsequence](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1834-single-threaded-cpu](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
