@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0283-move-zeroes](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0322-coin-change) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
