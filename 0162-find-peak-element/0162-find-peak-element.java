@@ -11,7 +11,7 @@ class Solution {
         }
         if(nums[nums.length-1] > nums[nums.length - 2]){return nums.length - 1 ;}
         int  low =1 ;
-        int high = nums.length - 1 ;
+        int high = nums.length - 2 ;
         while(low<=high){
             int mid  = low+(high-low)/2 ;
 
