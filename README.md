@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1834-single-threaded-cpu](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 ## Two Pointers
@@ -81,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
