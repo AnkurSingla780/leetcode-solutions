@@ -1,10 +1,11 @@
 class Solution {
     public int mySqrt(int x) {
-        long ans = 0 ;
+        long i = 1;
 
-        for(long i = 1;(i*i)<=x;i++){
-            ans = i ;
+        while (i * i <= x) {
+            i++;
         }
-        return (int)ans ;
+
+        return (int) (i - 1);
     }
 }
