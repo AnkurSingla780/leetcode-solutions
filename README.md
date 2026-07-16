@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Sorting
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
