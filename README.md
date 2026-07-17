@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 ## Binary Search
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0779-k-th-symbol-in-grammar](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
