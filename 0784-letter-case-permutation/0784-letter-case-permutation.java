@@ -6,24 +6,26 @@ class Solution {
         return list ; 
     }
     public void combinations(String s ,StringBuilder s1, int n){
-        if(n>=s.length()){
+        if(n==s.length()){
             list.add(s1.toString()) ;
             return ;
         }
-        char ch = s.charAt(n) ;
-        if(Character.isLetter(s.charAt(n))){
-            s1.append(Character.toUpperCase(ch)) ;
-            combinations(s,s1,n+1);
-            s1.deleteCharAt(s1.length()-1) ;
+        if (Character.isDigit(s.charAt(n))) {
+            StringBuilder op = new StringBuilder(s1);
+            op.append(s.charAt(n));
 
-            s1.append(Character.toLowerCase(ch)) ;
-            combinations(s,s1,n+1);
-            s1.deleteCharAt(s1.length()-1) ;
+            combinations(s, op, n + 1);
+            return;
         }
-        else{
-            s1.append(ch) ;
-            combinations(s,s1,n+1);
-            s1.deleteCharAt(s1.length()-1) ;
-        }
+
+        StringBuilder op1 = new StringBuilder(s1)  ;
+        op1.append(Character.toLowerCase(s.charAt(n)));
+
+        StringBuilder op2 = new StringBuilder(s1)  ;
+        op2.append(Character.toUpperCase(s.charAt(n))) ;
+
+        combinations(s,op1,n+1) ;
+        combinations(s,op2,n+1) ;
+
     }
 }
