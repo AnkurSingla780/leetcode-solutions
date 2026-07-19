@@ -4,14 +4,23 @@ class Solution {
         List<Integer> output = new ArrayList<>() ;
         Arrays.sort(nums) ;
         solve(nums,0,output,ans) ;
-        return ans ;
+        Map<List<Integer>, Boolean> map = new HashMap<>();
+        List<List<Integer>> unique = new ArrayList<>();
+
+        for (List<Integer> subset : ans) {
+            if (!map.containsKey(subset)) {
+                map.put(subset, true);
+                unique.add(subset);
+            }
+        }
+
+        return unique;
+        
     }
 
     public void solve(int[] nums , int index ,List<Integer> output , List<List<Integer>> ans ){
         if (index == nums.length) {
-            if (!ans.contains(output)) {
-                ans.add(output);
-            }
+            ans.add(output);
             return;
         }
 
