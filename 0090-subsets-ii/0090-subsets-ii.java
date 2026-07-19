@@ -8,12 +8,11 @@ class Solution {
     }
 
     public void solve(int[] nums , int index ,List<Integer> output , List<List<Integer>> ans ){
-        if(index==nums.length && !ans.contains(output)){
-            ans.add(output) ;
-            return ;
-        }
-        else if (index==nums.length && ans.contains(output)){
-            return ;
+        if (index == nums.length) {
+            if (!ans.contains(output)) {
+                ans.add(output);
+            }
+            return;
         }
 
         List<Integer> op1 = new ArrayList<>(output) ;
