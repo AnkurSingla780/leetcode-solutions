@@ -11,10 +11,8 @@ class Solution {
             return ;
         }
         if (Character.isDigit(s.charAt(n))) {
-            StringBuilder op = new StringBuilder(s1);
-            op.append(s.charAt(n));
-
-            combinations(s, op, n + 1);
+            s1.append(s.charAt(n));
+            combinations(s, s1, n + 1);
             return;
         }
 
