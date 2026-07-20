@@ -8,8 +8,19 @@ class Solution {
         }
 
         solve(ans, input, new ArrayList<>());
+        List<List<Integer>> ans1 = new ArrayList<>();
+        Map<List<Integer>, Boolean> map = new HashMap<>();
 
-        return ans;
+        for (List<Integer> i : ans) {
+
+            if (!map.containsKey(i)) {
+                map.put(i, true);
+                ans1.add(i);
+            }
+        }
+
+        return ans1;
+
     }
 
     public void solve(List<List<Integer>> ans,
@@ -17,10 +28,8 @@ class Solution {
                       List<Integer> output) {
 
         if (input.size() == 0) {
-            if(ans.contains(output)){return ;}
-            else{ans.add(output);
+            ans.add(output);
             return;
-            }
         }
 
         for (int i = 0; i < input.size(); i++) {
