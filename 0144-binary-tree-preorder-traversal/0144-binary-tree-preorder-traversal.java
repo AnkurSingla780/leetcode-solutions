@@ -25,9 +25,9 @@ class Solution {
         st.push(root) ;
 
         while(!st.isEmpty()){
-            TreeNode node = st.pop(); ;
+            TreeNode node = st.peek() ;
             list.add(node.val);
-            
+            st.pop();
             if(node.right!=null) st.push(node.right);
             if(node.left!=null) st.push(node.left) ;
 
