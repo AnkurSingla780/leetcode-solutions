@@ -10,12 +10,14 @@ class Solution {
             return n ;
         }
 
-        if(dp[n]!=-1){
-            return dp[n] ;
-        }
+        // if(dp[n]!=-1){
+        //     return dp[n] ;
+        // }
 
-        dp[n] = fibo(n-1,dp) + fibo(n-2,dp) ;
+        // dp[n] = fibo(n-1,dp) + fibo(n-2,dp) ;
 
-        return dp[n] ;
+        // return dp[n] ;
+
+        return fibo(n-1,dp) + fibo(n-2,dp) ;
     }
 }
