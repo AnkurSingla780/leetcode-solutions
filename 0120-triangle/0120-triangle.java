@@ -6,11 +6,22 @@ class Solution {
 
         int[][] dp = new int[n][n];
 
-        for (int[] row : dp) {
-            Arrays.fill(row, Integer.MIN_VALUE);
+        for(int i = 0 ; i<triangle.get(n-1).size();i++){
+            dp[n-1][i] = triangle.get(n-1).get(i) ;
         }
+        for(int i =n-2 ; i>=0;i--){
+            for(int j = triangle.get(i).size() -1 ;j>=0;j--){
+                int up = triangle.get(i).get(j) + dp[i+1][j] ;
+                int diagonal = triangle.get(i).get(j) + dp[i+1][j+1] ;
+                dp[i][j] = Math.min(up,diagonal) ;
+            }
+        }
+        return dp[0][0] ;
+        // for (int[] row : dp) {
+        //     Arrays.fill(row, Integer.MIN_VALUE);
+        // }
 
-        return solve(0, 0, triangle, dp);
+        // return solve(0, 0, triangle, dp);
     }
 
     public int solve(int i, int j, List<List<Integer>> triangle, int[][] dp) {
