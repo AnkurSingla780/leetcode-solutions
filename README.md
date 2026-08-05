@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0784-letter-case-permutation](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1143-longest-common-subsequence](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/AnkurSingla780/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
