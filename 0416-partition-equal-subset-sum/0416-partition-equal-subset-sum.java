@@ -1,49 +1,46 @@
 class Solution {
+
+    Boolean[][] dp;
+
     public boolean canPartition(int[] nums) {
 
         int sum = 0;
 
-        for(int i : nums){
-            sum += i;
+        for (int x : nums) {
+            sum += x;
         }
 
-        if(sum % 2 != 0){
+        if (sum % 2 != 0) {
             return false;
         }
 
-        int[][] dp = new int[nums.length][sum / 2 + 1];
+        dp = new Boolean[nums.length][sum / 2 + 1];
 
-        for(int[] i : dp){
-            Arrays.fill(i, -1);
-        }
-
-        return solve(nums.length - 1, sum / 2, dp, nums);
+        return solve(nums, nums.length - 1, 0, sum);
     }
 
-    public boolean solve(int i, int target, int[][] dp, int[] nums){
+    boolean solve(int[] nums, int i, int target, int sum) {
 
-        if(target == 0){
+        if (target == sum / 2) {
             return true;
         }
 
-        if(i == 0){
-            return target == nums[0];
+        if (i < 0) {
+            return false;
         }
 
-        if(dp[i][target] != -1){
-            return dp[i][target] == 1;
+        if (dp[i][target] != null) {
+            return dp[i][target];
         }
 
-        boolean Nottake = solve(i - 1, target, dp, nums);
+        boolean nottake = solve(nums, i - 1, target, sum);
 
         boolean take = false;
 
-        if(target >= nums[i]){
-            take = solve(i - 1, target - nums[i], dp, nums);
+        if (target + nums[i] <= sum / 2) {
+            take = solve(nums, i - 1, target + nums[i], sum);
         }
 
-        dp[i][target] = (Nottake || take) ? 1 : 0;
-
-        return Nottake || take;
+        return dp[i][target] = nottake || take;
     }
 }
